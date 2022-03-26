@@ -1,4 +1,4 @@
-package com.example.splashscreen
+package com.example.splash
 
 import io.flutter.embedding.android.FlutterActivity
 

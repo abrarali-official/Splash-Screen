@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(splashscreen LANGUAGES CXX)
+project(splash LANGUAGES CXX)
 
-set(BINARY_NAME "splashscreen")
+set(BINARY_NAME "splash")
 
 cmake_policy(SET CMP0063 NEW)
 

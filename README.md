@@ -1,4 +1,4 @@
-# splashscreen
+# splash
 
 A new Flutter project.
 
